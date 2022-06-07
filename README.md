@@ -3,7 +3,7 @@
 
 I am analyzing Google Cloud users for efficiency.
 
-<img width="252" alt="Screen Shot 2022-06-06 at 7 23 37 PM" src="https://user-images.githubusercontent.com/19508013/172282290-714228bb-845d-4fdf-b747-ad7b2a15905e.png">
+<img width="403" alt="Screen Shot 2022-06-06 at 7 25 01 PM" src="https://user-images.githubusercontent.com/19508013/172282411-9b23f546-2daa-4bcf-adcd-1707ff51a416.png">
 
 ![IMG_5288](https://user-images.githubusercontent.com/19508013/166152513-3b91a868-fa4d-452d-bd42-3ae15b11b8a9.jpeg)
 
