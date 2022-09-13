@@ -3,6 +3,8 @@
 
 I am analyzing Google Cloud users for efficiency.
 
+“Shawna is working at Google for our team as a Sr. Consultant from Accenture. Her work always went above and beyond. She has a knack for providing clear data insight to help make critical business decisions. Her presentation style is always easy to understand and digest. Our team continues to work with her for ongoing projects and she keeps on delivering over and above expectations.” - Abhishek Lal (Google Technical Program Manager)
+
 <img width="403" alt="Screen Shot 2022-06-06 at 7 25 01 PM" src="https://user-images.githubusercontent.com/19508013/172282411-9b23f546-2daa-4bcf-adcd-1707ff51a416.png">
 
 ![vibes](https://user-images.githubusercontent.com/19508013/182675040-750d4d80-0c83-46f6-86c4-e916f8774ee5.jpg)
