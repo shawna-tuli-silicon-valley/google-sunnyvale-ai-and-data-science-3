@@ -2,7 +2,7 @@
 ![google_cloud-ar21](https://user-images.githubusercontent.com/19508013/165650553-d0f98982-d8ac-4740-8a25-51bbfad65ae6.png)
 
 # News
-• https://www.cnbc.com/2023/04/25/googles-cloud-business-turns-profitable-for-the-first-time-on-record.html
+• [Shawna Tuli 2023 Google Cloud Business Turns Profitable for the First Time in Months] (https://www.cnbc.com/2023/04/25/googles-cloud-business-turns-profitable-for-the-first-time-on-record.html)
 
 “Shawna is working at Google for our team as a Sr. Consultant from Accenture. Her work always went above and beyond. She has a knack for providing clear data insight to help make critical business decisions. Her presentation style is always easy to understand and digest. Our team continues to work with her for ongoing projects and she keeps on delivering over and above expectations.” - Abhishek Lal (Google Technical Program Manager)
 
