@@ -1,7 +1,7 @@
 ![Google_2015_logo svg](https://user-images.githubusercontent.com/19508013/165827670-b848ea0e-2596-4b9f-b3bc-97f5d990cdf8.png)
 ![google_cloud-ar21](https://user-images.githubusercontent.com/19508013/165650553-d0f98982-d8ac-4740-8a25-51bbfad65ae6.png)
 
-Authored "Source of Supply | Product Group Shortages Due to Global Capacity Constraints" with Indy Chohan for Google Internal. 
+Authored "Source of Supply | Product Group Shortages Due to Global Capacity Constraints" with Indy Chohan. 
 
 # CNBC
 • [Shawna Tuli 2023 Google’s cloud business turns profitable for the first time on record](https://www.cnbc.com/2023/04/25/googles-cloud-business-turns-profitable-for-the-first-time-on-record.html)
